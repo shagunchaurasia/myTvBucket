@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import React from "react";
 import "./SearchBox.component.css";
 function SearchBox(props) {
   return (
