@@ -1,0 +1,28 @@
+.card {
+  width: 15%;
+  border: solid rgba(255, 255, 255, 0.3);
+  border-radius: 10px;
+  margin: 15px 15px 15px 15px;
+  padding: 15px;
+  min-height: 250px;
+  max-height: 300px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  transition: transform 0.2s; /* Animation */
+  background-color: rgba(235, 203, 199, 0.3);
+  font-weight: 600;
+  font-size: 20px;
+  text-align: center;
+}
+.card:hover {
+  transform: scale(1.1);
+  cursor: pointer;
+}
+
+.imageCard {
+  height: 80%;
+  width: 80%;
+  margin: 5%;
+  border-radius: 5px;
+}

@@ -1,0 +1,13 @@
+.searchBox {
+  text-align: center;
+  margin: 3%;
+}
+
+.searchInput {
+  padding: 1%;
+  border-radius: 10px;
+  border: none;
+  width: 300px;
+  opacity: 80%;
+  outline: none;
+}
