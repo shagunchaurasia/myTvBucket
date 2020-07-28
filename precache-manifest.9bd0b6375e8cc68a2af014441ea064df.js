@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9ec3de329d06f0dc1557345f69314e69",
+    "revision": "1b482e6fb63173b26de522be35563e02",
     "url": "/myTvBucket/index.html"
   },
   {
-    "revision": "0632b4b0d60c1488976b",
-    "url": "/myTvBucket/static/css/main.97f15fb6.chunk.css"
+    "revision": "bafa0e85a704b69adfc3",
+    "url": "/myTvBucket/static/css/main.0eb29fc7.chunk.css"
   },
   {
     "revision": "c7aed2cade0b589ea29c",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/myTvBucket/static/js/2.38d5b049.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0632b4b0d60c1488976b",
+    "revision": "bafa0e85a704b69adfc3",
     "url": "/myTvBucket/static/js/main.ca3f14ea.chunk.js"
   },
   {
