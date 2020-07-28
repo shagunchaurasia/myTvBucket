@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/github.io/myTvBucket/static/css/main.97f15fb6.chunk.css",
+    "main.js": "/github.io/myTvBucket/static/js/main.7de3ccab.chunk.js",
+    "main.js.map": "/github.io/myTvBucket/static/js/main.7de3ccab.chunk.js.map",
+    "runtime-main.js": "/github.io/myTvBucket/static/js/runtime-main.2fc72541.js",
+    "runtime-main.js.map": "/github.io/myTvBucket/static/js/runtime-main.2fc72541.js.map",
+    "static/js/2.125e8768.chunk.js": "/github.io/myTvBucket/static/js/2.125e8768.chunk.js",
+    "static/js/2.125e8768.chunk.js.map": "/github.io/myTvBucket/static/js/2.125e8768.chunk.js.map",
+    "index.html": "/github.io/myTvBucket/index.html",
+    "precache-manifest.ef6de8fd0fd440a26bea13790e8f41f6.js": "/github.io/myTvBucket/precache-manifest.ef6de8fd0fd440a26bea13790e8f41f6.js",
+    "service-worker.js": "/github.io/myTvBucket/service-worker.js",
+    "static/css/main.97f15fb6.chunk.css.map": "/github.io/myTvBucket/static/css/main.97f15fb6.chunk.css.map",
+    "static/js/2.125e8768.chunk.js.LICENSE.txt": "/github.io/myTvBucket/static/js/2.125e8768.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/github.io/myTvBucket/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2fc72541.js",
+    "static/js/2.125e8768.chunk.js",
+    "static/css/main.97f15fb6.chunk.css",
+    "static/js/main.7de3ccab.chunk.js"
+  ]
+}
